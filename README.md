@@ -1,6 +1,6 @@
 # React Native Deep Linking with Navigation and Dynamic Links
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/69007597fbbcf26b76ea5a92/react-native-deep-linking-with-navigation-and-dynamic-links).
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
